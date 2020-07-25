@@ -1,4 +1,4 @@
-package com.github.examples.generics.Example;
+package com.github.examples.generics.example;
 
 import java.util.function.Function;
 
